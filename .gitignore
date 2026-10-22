@@ -2,6 +2,9 @@
 Thumbs.db
 .DS_Store
 
+# WorkBuddy runtime (kept local; project memory is mirrored to docs/decision-log/)
+.workbuddy/
+
 # Cocos Creator (future)
 /library/
 /temp/
